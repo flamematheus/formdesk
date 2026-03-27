@@ -25,7 +25,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #4CAF50;
+    color: #0000;
 }
 
 .container {
@@ -41,7 +41,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #000000
     color: white;
     text-align: center;
     padding: 10px;
